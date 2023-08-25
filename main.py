@@ -30,7 +30,7 @@ class AlarmThread(threading.Thread):
 class AlarmApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Alarma")
+        self.root.title("PyAlarms")
         self.root.geometry("400x300")
         self.display_time = tk.StringVar(value="")
         self.hour = tk.StringVar()
