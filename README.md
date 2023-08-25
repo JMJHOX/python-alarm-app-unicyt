@@ -1,4 +1,4 @@
-# PyAlarms en Python
+# PyAlarms
 
 Este es un proyecto de una aplicación de alarma desarrollada en Python utilizando la librería `tkinter` para la interfaz gráfica y otras funcionalidades. La aplicación permite configurar una alarma y activarla para recibir notificaciones en el momento especificado.
 
@@ -36,4 +36,4 @@ Las contribuciones son bienvenidas. Si encuentras algún problema, tienes sugere
 
 Este proyecto está bajo la Licencia [MIT](LICENSE).
 
-Link del vídeo explicativo: https://youtu.be/eCgnG3NCBwQ
+Enlace del vídeo explicativo del proyecto: https://youtu.be/eCgnG3NCBwQ
