@@ -13,6 +13,7 @@ Este es un proyecto de una aplicación de alarma desarrollada en Python utilizan
 ## Requisitos
 
 - Python 3.x
+- Entorno con Windows (Se utilizó Windows 10)
 - Biblioteca `tkinter` (generalmente incluida en la instalación estándar de Python)
 
 ## Instalación
